@@ -1,0 +1,3 @@
+﻿  main.c
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  try_1.vcxproj -> D:\Renato\Accademia\CALCOLATORI ELETTRONICI\VS\try_1\Release\try_1.exe

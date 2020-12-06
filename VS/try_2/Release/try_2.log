@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: la directory intermedia (Release\) contiene file condivisi da un altro progetto (try_2.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  main.c
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  try_2.vcxproj -> D:\Renato\Accademia\CALCOLATORI ELETTRONICI\VS\try_1\Release\massimo.exe
