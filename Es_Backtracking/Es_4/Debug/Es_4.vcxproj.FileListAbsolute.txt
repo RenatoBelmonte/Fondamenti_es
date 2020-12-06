@@ -1,0 +1,4 @@
+C:\Users\renat\Desktop\FONDAMENTI DI INFORMATICA II\Es_Backtracking\Es_4\Debug\Es_4.exe
+C:\Users\renat\Desktop\FONDAMENTI DI INFORMATICA II\Es_Backtracking\Es_4\Debug\Es_4.pdb
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Es_Backtracking\Es_4\Debug\Es_4.exe
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Es_Backtracking\Es_4\Debug\Es_4.pdb
