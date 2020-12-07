@@ -50,7 +50,7 @@ size_t lunghezza(const Item* i)
 	return res;
 }
 
-Item* append(const Item* i1, const Item* i2)
+Item* append(Item* i1, Item* i2)
 {
 	if (IsEmptyList(i1))
 		return i2;
@@ -64,6 +64,21 @@ Item* append(const Item* i1, const Item* i2)
 	}
 	
 	return i2;
+}
+
+Item* copy(Item* i)
+{
+	if (IsEmptyList(i))
+		return i;
+
+	Item* tmp = CreateEmptyList();
+	while (!IsEmptyList(i))
+	{
+		tmp = InsertHeadList(GetHeadValueList(i), tmp);
+		i = GetTailList(i);
+	}
+
+	return tmp;
 }
 
 int main()
@@ -89,6 +104,10 @@ int main()
 
 	Item* list3 = append(list1, list2);
 	WriteStdoutList(list3);
+
+	Item* list4 = CreateEmptyList();
+	list4 = copy(list2);
+	WriteStdoutList(list4);
 
 	return 0;
 }

@@ -1,11 +1,7 @@
 ﻿  main.c
 D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(34,45): warning C4047: 'function': 'const ElemType *' differs in levels of indirection from 'int'
 D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(34,41): warning C4024: 'ElemCompare': different types for formal and actual parameter 2
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(56,12): warning C4090: 'return': different 'const' qualifiers
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(63,26): warning C4133: 'function': incompatible types - from 'ElemType *' to 'Item *'
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(63,30): warning C4133: 'function': incompatible types - from 'const Item *' to 'const ElemType *'
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(66,11): warning C4090: 'return': different 'const' qualifiers
 D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(60,1): warning C4090: 'initializing': different 'const' qualifiers
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(25): warning C4715: 'is_member': not all control paths return a value
 D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(38): warning C4715: 'IS_MEMBER': not all control paths return a value
+D:\Renato\Condivisa\Esercizi_C\Es_1 lista\main.c(25): warning C4715: 'is_member': not all control paths return a value
   Es_1.vcxproj -> D:\Renato\Condivisa\Esercizi_C\Es_1 lista\Debug\Es_1.exe
