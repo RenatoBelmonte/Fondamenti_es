@@ -1,6 +1,0 @@
-﻿  main.c
-C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\main.c(21,45): warning C4047: 'function': 'const ElemType *' differs in levels of indirection from 'int'
-C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\main.c(21,41): warning C4024: 'ElemCompare': different types for formal and actual parameter 2
-C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\main.c(12): warning C4715: 'is_member': not all control paths return a value
-C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\main.c(25): warning C4715: 'IS_MEMBER': not all control paths return a value
-  Es_1.vcxproj -> C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\Debug\Es_1.exe
