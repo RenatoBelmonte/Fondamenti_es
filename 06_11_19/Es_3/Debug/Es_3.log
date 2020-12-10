@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\06_11_19\Es_3\main.c(10,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\06_11_19\Es_3\main.c(15,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\06_11_19\Es_3\main.c(37,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\06_11_19\Es_3\main.c(42,1): warning C4090: 'initializing': different 'const' qualifiers
+  Es_3.vcxproj -> C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\06_11_19\Es_3\Debug\Es_3.exe

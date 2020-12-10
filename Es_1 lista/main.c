@@ -66,7 +66,7 @@ Item* append(Item* i1, Item* i2)
 	return i2;
 }
 
-Item* copy(Item* i)
+Item* copy(const Item* i)
 {
 	if (IsEmptyList(i))
 		return i;
@@ -79,6 +79,25 @@ Item* copy(Item* i)
 	}
 
 	return tmp;
+}
+
+Item* remove_elem(const Item* i, const ElemType* e)
+{
+	if (IsEmptyList(i))
+		return i;
+
+	Item* res = CreateEmptyList();
+	while (!IsEmptyList(i))
+	{
+		ElemType* tmp = GetHeadValueList(i);
+		if(*tmp != *e)
+			{
+				res = InsertHeadList(tmp, res);
+				i = GetTailList(i);
+			}
+	}
+
+	return res;
 }
 
 int main()
@@ -107,6 +126,10 @@ int main()
 
 	Item* list4 = CreateEmptyList();
 	list4 = copy(list2);
+	WriteStdoutList(list4);
+
+	ElemType e = 2;
+	list4 = remove_elem(list4, &e);
 	WriteStdoutList(list4);
 
 	return 0;
