@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\24_07_20\Es_2\main.c(26,18): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\24_07_20\Es_2\main.c(24,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\24_07_20\Es_2\main.c(37,1): warning C4090: 'initializing': different 'const' qualifiers
+  Es_2.vcxproj -> C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Esempi esame\24_07_20\Es_2\Debug\Es_2.exe
