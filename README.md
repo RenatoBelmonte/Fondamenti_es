@@ -1,1 +1,1 @@
-# Esercizi_C
+Esercizi del corso di Fondamenti di informatica
