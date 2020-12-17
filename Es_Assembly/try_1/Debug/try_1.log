@@ -1,3 +1,0 @@
-﻿  Assembling prova.asm...
-prova.asm(1): error A2008: syntax error : .
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: uscita dal comando "ml.exe /c /nologo /Zi /Fo"Debug\prova.obj" /W3 /errorReport:prompt  /Taprova.asm" con codice 1.

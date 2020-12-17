@@ -1,2 +1,0 @@
-C:\Users\renat\Desktop\Università\CALCOLATORI ELETTRONICI\VS\max_di_un_vettore\Debug\max_di_un_vettore.exe
-C:\Users\renat\Desktop\Università\CALCOLATORI ELETTRONICI\VS\max_di_un_vettore\Debug\max_di_un_vettore.pdb

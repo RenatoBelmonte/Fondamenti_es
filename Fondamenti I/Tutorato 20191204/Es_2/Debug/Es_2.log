@@ -1,0 +1,2 @@
+﻿Es_2.obj : error LNK2019: unresolved external symbol "char __cdecl maiusc(char)" (?maiusc@@YADD@Z) referenced in function _main
+C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Tutorato 20191204\Es_2\Debug\Es_2.exe : fatal error LNK1120: 1 esterni non risolti

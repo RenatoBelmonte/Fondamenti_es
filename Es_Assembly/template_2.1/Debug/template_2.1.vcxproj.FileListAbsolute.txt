@@ -1,4 +1,0 @@
-D:\Renato\Accademia\CALCOLATORI ELETTRONICI\VS\template_2.1\Debug\template_2.1.exe
-D:\Renato\Accademia\CALCOLATORI ELETTRONICI\VS\template_2.1\Debug\template_2.1.pdb
-C:\Users\renat\Desktop\Università\CALCOLATORI ELETTRONICI\VS\template_2.1\Debug\template_2.1.exe
-C:\Users\renat\Desktop\Università\CALCOLATORI ELETTRONICI\VS\template_2.1\Debug\template_2.1.pdb

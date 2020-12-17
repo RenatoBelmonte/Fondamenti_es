@@ -1,0 +1,10 @@
+typedef unsigned int uint;
+extern double sqrt(double a);
+extern double radici(int a, int b, int c, double *x1, double *x2);
+extern void swap (uint *a, uint *b);
+extern uint MCD (uint m, uint n);
+extern int fattoriale (int n);
+extern int mcm(int a, int b);
+extern double potenza(double b, double e);
+extern int isprime (uint val);
+extern double massimo(double a,double b,double c);

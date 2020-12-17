@@ -1,4 +1,0 @@
-C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\Debug\Es_1.exe
-C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_1\Debug\Es_1.pdb
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\Debug\Es_1.exe
-D:\Renato\Condivisa\Esercizi_C\Es_1 lista\Debug\Es_1.pdb

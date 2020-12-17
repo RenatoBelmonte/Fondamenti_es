@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+      <FILENAME>conversione.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferenziazione del puntatore NULL 'ris'. </DESCRIPTION>
+    <FUNCTION>converti</FUNCTION>
+    <DECORATED>?converti@@YAPADI@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>35</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>dichiarazione</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'ris' potrebbe essere NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>utilizzo</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'ris' è dereferenziato, ma potrebbe essere ancora NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+      <FILENAME>conversione.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Sovraccarico del buffer:  nell'accesso a 'ris', la dimensione non protetta da scrittura è 'b*sizeof(char)' byte, ma è possibile scrivere in '2' byte.</DESCRIPTION>
+    <FUNCTION>converti</FUNCTION>
+    <DECORATED>?converti@@YAPADI@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>5</LINE>
+        <COLUMN>35</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>dichiarazione</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'c' è uguale a 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>5</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>dichiarazione</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'ris' è una matrice di 0 byte</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>17</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>17</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Avvia il ciclo (presupponi 'c!=b')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Ignora il branch (presupponi che 'n&gt;d' sia false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\renat\Desktop\Accademia\FONDAMENTI DI INFORMATICA\Esercizi\Esercizi C\Laboratorio 07_04\Esercizio_08\</FILEPATH>
+        <FILENAME>conversione.cpp</FILENAME>
+        <LINE>24</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>utilizzo</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Scrittura non valida in 'ris' (non compreso nel relativo intervallo di lettura)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
