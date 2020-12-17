@@ -1,0 +1,13 @@
+﻿  diff.c
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\diff.c(5,11): error C2100: illegal indirection
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\diff.c(7,13): error C2065: 'list': undeclared identifier
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\diff.c(7,13): warning C4047: 'return': 'Item *' differs in levels of indirection from 'int'
+  list_int.c
+  main.c
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\main.c(3,47): error C2086: 'const Item *i2': redefinition
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\main.c(3): message : see declaration of 'i2'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\main.c(10,21): warning C4013: 'LoadList' undefined; assuming extern returning int
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\main.c(16,24): warning C4020: 'Diff': too many actual parameters
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\main.c(10,1): warning C4047: 'initializing': 'Item *' differs in levels of indirection from 'int'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Es_3\main.c(11,1): warning C4047: 'initializing': 'Item *' differs in levels of indirection from 'int'
+  Generating Code...

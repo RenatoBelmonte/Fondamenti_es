@@ -1,0 +1,18 @@
+﻿  liste.c
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.h(10,2): error C2061: syntax error: identifier 'ElemType'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.h(12,1): error C2059: syntax error: '}'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(45,31): error C2027: use of undefined type 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.h(9): message : see declaration of 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(48,6): error C2037: left of 'value' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(49,6): error C2037: left of 'next' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(62,14): error C2037: left of 'value' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(62,2): warning C4033: 'GetHeadValueList' must return a value
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(71,12): error C2037: left of 'next' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(71,2): warning C4033: 'GetTailList' must return a value
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(86,7): error C2037: left of 'next' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(101,16): error C2037: left of 'next' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(102,20): error C2037: left of 'value' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(102,13): error C2198: 'ElemDelete': too few arguments for call
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(118,17): error C2037: left of 'value' specifies undefined struct/union 'Item'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(118,25): warning C4133: 'function': incompatible types - from 'FILE *' to 'const ElemType *'
+C:\Users\renat\Desktop\Università\FONDAMENTI DI INFORMATICA II\Liste\Project1\liste.c(118,12): error C2198: 'WriteElem': too few arguments for call
